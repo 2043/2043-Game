@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Aidan Foley.data.unityweb",
+"asmCodeUrl": "Aidan Foley.asm.code.unityweb",
+"asmMemoryUrl": "Aidan Foley.asm.memory.unityweb",
+"asmFrameworkUrl": "Aidan Foley.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
